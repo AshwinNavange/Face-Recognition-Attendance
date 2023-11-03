@@ -1,2 +1,2 @@
 # Face-Recognition-Attendance
-Developed and implemented a Face Recognition Attendance System utilizing Machine Learning techniques, used Flask Framework.
+Face Recognition Attendance System using Flask framework. Face is recognised once resulting in CSV generation including name, time
